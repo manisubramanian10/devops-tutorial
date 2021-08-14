@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = docker.build("manisubramanian10/myremoterepohub")
+        app = docker.build("manisubramanian10/devops-tutorial")
     
     }
 
